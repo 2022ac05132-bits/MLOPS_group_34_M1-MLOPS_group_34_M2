@@ -1,0 +1,15 @@
+artifact_uri: file:///home/koderkaushik/MLOPS/MLOPS_group_34_M2/MLOPS_group_34_M1-MLOPS_group_34_M2/mlruns/0/9a5822c749854700886e61c616c5e3aa/artifacts
+end_time: 1723009283237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a5822c749854700886e61c616c5e3aa
+run_name: bright-shrike-64
+run_uuid: 9a5822c749854700886e61c616c5e3aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723009280990
+status: 3
+tags: []
+user_id: koderkaushik

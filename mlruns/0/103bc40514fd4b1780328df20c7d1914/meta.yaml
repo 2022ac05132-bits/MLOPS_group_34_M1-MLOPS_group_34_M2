@@ -1,0 +1,15 @@
+artifact_uri: file:///home/koderkaushik/MLOPS/MLOPS_group_34_M2/MLOPS_group_34_M1-MLOPS_group_34_M2/mlruns/0/103bc40514fd4b1780328df20c7d1914/artifacts
+end_time: 1723009300172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 103bc40514fd4b1780328df20c7d1914
+run_name: unruly-grouse-861
+run_uuid: 103bc40514fd4b1780328df20c7d1914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723009297931
+status: 3
+tags: []
+user_id: koderkaushik
